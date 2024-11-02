@@ -8,10 +8,6 @@ Trabalhei em empresas como Quality Digital, Lanlink e Qintess, onde desenvolvi h
 
 ###
 
-<p align="left">- Javascript Developer</p>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
