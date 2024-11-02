@@ -1,5 +1,11 @@
 <h2 align="left">About Me</h2>
 
+Sou um profissional com mais de 9 anos de experiência em suporte técnico e redes, atualmente em transição para o desenvolvimento Full Stack. Estou em formação para Desenvolvimento Web pela Harve, onde aprendo HTML, CSS, JavaScript, SQL, Git entre outras coisas, com o objetivo de me tornar um desenvolvedor full-stack. 
+
+Formado em Redes de Computadores e pós-graduando em Cloud Computing, tenho ampliado minha expertise com certificações em tecnologias como Microsoft Azure, AWS e Oracle Cloud Infrastructure, além de conhecimentos sólidos em Active Directory, ITIL e sistemas operacionais Windows, Linux e MacOs.
+
+Trabalhei em empresas como Quality Digital, Lanlink e Qintess, onde desenvolvi habilidades técnicas e analíticas que aplico ao meu aprendizado em programação. Estou constantemente aprimorando minhas habilidades e buscando projetos desafiadores para continuar minha evolução como desenvolvedor.
+
 ###
 
 <p align="left">- Javascript Developer</p>
